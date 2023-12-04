@@ -78,4 +78,3 @@ const stringData = "1439563458";
 const maxNumber = Math.max(...stringData.split(""));
 console.log(maxNumber);
 ```
-
